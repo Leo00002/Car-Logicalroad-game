@@ -4,8 +4,5 @@ software development coursework
 #环境
 pygame pillow math
 
-## 贡献者
-BJTU计科2303WJR MYH HXH ZMT LYY JYR
-
 #项目讲解
 软开下学期coursework
